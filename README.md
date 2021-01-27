@@ -7,10 +7,10 @@ Optical Character Recognition (OCR) plays a very important role in automating bu
 
 |[Introduction](#introduction)|[Business Opportunity](#business-opportunity)|[Technical Solution](#technical-solution)|[Technical Architecture](#technical-architecture)|[Demo](#demo)|[Contact](#contact)|
 |---|---|---|---|---|---|
-|   |   |   |[⎿ Accuracy](#accuracy)|   |   |
-|   |   |   |[⎿ Pre-processing](#pre-processing)|   |   |
-|   |   |   |[⎿ Web App](#web-app)|   |   |
-|   |   |   |[⎿ Security](#security)|   |   |
+|   |   |   |[▶︎ Accuracy](#accuracy)|   |   |
+|   |   |   |[▶︎ Pre-processing](#pre-processing)|   |   |
+|   |   |   |[▶︎ Web App](#web-app)|   |   |
+|   |   |   |[▶︎ Security](#security)|   |   |
 
 ## Introduction
 According to an IDC prediction ([IDC FutureScape 2021 Worldwide Top Ten IT Predictions](https://www.idc.com/events/futurescape)), by 2022 45% of repetitive work tasks in large enterprises will be automated and / or augmented by "digital workers".
