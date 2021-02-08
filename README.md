@@ -13,7 +13,7 @@ Optical Character Recognition (OCR) plays a very important role in automating bu
 |   |   |   |[➤ Security](#security)|   |   |
 
 ## Introduction
-According to an IDC prediction ([IDC FutureScape 2021 Worldwide Top Ten IT Predictions](https://www.idc.com/events/futurescape)), by 2022 45% of repetitive work tasks in large enterprises will be automated and / or augmented by "digital workers".
+According to an IDC prediction ([IDC FutureScape 2021 Worldwide Top Ten IT Predictions](https://www.idc.com/events/futurescape)), by 2022, 45% of repetitive work tasks in large enterprises will be automated and / or augmented by "digital workers".
 
 <p align = "center">
   <img src = "images/idc.png" alt = "" width = "50%" height = "50%" />
