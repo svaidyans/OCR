@@ -44,7 +44,7 @@ To summarize, OCR leads to...
 <a href="#bfsi-automation-with-ocr"><img src="images/top.png" width="3%"></img></a>
 
 ## Business Opportunity
-A specific business need opportunity has come up wherein a large European Banking group wants to:
+A specific business need has come up wherein a bank wants to:
 
   - implement automation of Pay Orders processing with OCR
   - capture account numbers, amounts (with punctuation mark) in Pay Orders 
